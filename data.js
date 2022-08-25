@@ -85,7 +85,7 @@ var APP_DATA = {
           "yaw": -1.6512951051678986,
           "pitch": -0.018348713379930714,
           "title": "Title",
-          "text": "Text"
+          "text": '<iframe title="Supplement Bottle" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/567de9ee029e441687ee850cab549b99/embed?autospin=1&autostart=1&preload=1"> </iframe>'
         }
       ]
     },
