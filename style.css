@@ -750,9 +750,6 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 .info-hotspot-modal .info-hotspot-text {
   position: absolute;
   top: 110px;
-  bottom: 10px;
-  left: 10px;
-  right: 10px;
   padding: 10px;
   background-color: rgb(58,68,84);
   background-color: rgba(58,68,84,0.8);
